@@ -3,6 +3,7 @@ Apples
 Oranje Juice
 
 MEAT
+Steak
 
 BAKERY
 Bread
